@@ -10,3 +10,8 @@ The application contains the following features:
   - Payment processing using Stripe API
   - Order history of every customer using Google Cloud Firestore database
   
+Note: Dummy transactions can be made using the following card details
+  - Card Number: 4242 4242 4242 4242
+  - MM/YY: 04/24
+  - CVC: 242
+  - ZIP: 42424
