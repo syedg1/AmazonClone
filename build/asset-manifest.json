@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9fea8164.chunk.css",
+    "main.js": "/static/js/main.5f6e83be.chunk.js",
+    "main.js.map": "/static/js/main.5f6e83be.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.90140090.js",
+    "runtime-main.js.map": "/static/js/runtime-main.90140090.js.map",
+    "static/css/2.1c9ef103.chunk.css": "/static/css/2.1c9ef103.chunk.css",
+    "static/js/2.f13ff154.chunk.js": "/static/js/2.f13ff154.chunk.js",
+    "static/js/2.f13ff154.chunk.js.map": "/static/js/2.f13ff154.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dc95047839ea89f3f1ab772669a4894b.js": "/precache-manifest.dc95047839ea89f3f1ab772669a4894b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.1c9ef103.chunk.css.map": "/static/css/2.1c9ef103.chunk.css.map",
+    "static/css/main.9fea8164.chunk.css.map": "/static/css/main.9fea8164.chunk.css.map",
+    "static/js/2.f13ff154.chunk.js.LICENSE.txt": "/static/js/2.f13ff154.chunk.js.LICENSE.txt",
+    "static/media/amazon_banner.jpg": "/static/media/amazon_banner.cc129a04.jpg",
+    "static/media/amazon_logo.png": "/static/media/amazon_logo.8a0202e5.png",
+    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90140090.js",
+    "static/css/2.1c9ef103.chunk.css",
+    "static/js/2.f13ff154.chunk.js",
+    "static/css/main.9fea8164.chunk.css",
+    "static/js/main.5f6e83be.chunk.js"
+  ]
+}

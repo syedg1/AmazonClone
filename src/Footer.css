@@ -1,0 +1,43 @@
+.footer {
+    display: flex;
+    background-color: #131921;
+    margin-top: auto;
+    height: 100px;
+    width: 100%;
+    z-index: 100;
+}
+
+.footer__logoContainer {
+    display: flex;
+    flex: 0.5;
+    position: relative;
+}
+
+.footer__logo {
+    height: 30px;
+    position: absolute;
+    top: 35px;
+    right: 50px;
+    object-fit: contain;
+}
+
+.footer__country {
+    height: 40px;
+    flex: 0.5;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    border-left: 1px solid lightgray;
+    padding-left: 50px;
+}
+
+.footer__countryFlag {
+    height: 30px !important;
+    margin-bottom: 8px !important;
+}
+
+.footer__countryName {
+    height: 30px;
+    color: white;
+    margin: auto 10px 6px 10px;
+}
