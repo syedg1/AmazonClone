@@ -13,3 +13,7 @@ Note: Dummy transactions can be made using the following card details
   - MM/YY: 04/24
   - CVC: 242
   - ZIP: 42424
+
+
+![Capture1](https://user-images.githubusercontent.com/33561776/116412404-a9616500-a804-11eb-994b-3ae04ccc038a.JPG)
+
