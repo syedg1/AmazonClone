@@ -16,3 +16,10 @@ Note: Dummy transactions can be made using the following card details
 
 
 ![Capture1](https://user-images.githubusercontent.com/33561776/116412404-a9616500-a804-11eb-994b-3ae04ccc038a.JPG)
+
+![Capture](https://user-images.githubusercontent.com/33561776/116413472-a4e97c00-a805-11eb-8c16-cd3d5e053afc.JPG)
+
+![Capture2](https://user-images.githubusercontent.com/33561776/116413855-fabe2400-a805-11eb-82d1-73fc20a37433.JPG)
+
+![Capture3](https://user-images.githubusercontent.com/33561776/116414030-2214f100-a806-11eb-9341-5d6ce163deeb.JPG)
+
